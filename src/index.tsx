@@ -4,7 +4,6 @@ import { Frame } from "framer"
 import { PhoneScreen } from "./PhoneScreen"
 
 import "./styles.css"
-// forked
 function App() {
   const photos = [
     "https://images.unsplash.com/photo-1500042738280-d2cf3121aa44?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjg1ODY2fQ",
